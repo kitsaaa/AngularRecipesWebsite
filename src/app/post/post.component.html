@@ -1,0 +1,15 @@
+<div class="container">
+    <div>
+        <h1><u>{{post.title}}</u></h1>
+        <ul *ngFor="let ingridient of post.ingridients">
+            <li>{{ingridient}}</li>
+        </ul>
+        <div *ngFor="let step of post.steps; index as i">
+            <h4>{{i + 1}}: {{step.title}}</h4>
+            <p>{{step.body}}</p>
+            <div class="image" *ngFor="let image of step.img">
+                <img *ngIf="image"  src={{image}} alt="step">
+            </div>
+        </div>
+    </div>
+</div>

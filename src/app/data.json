@@ -1,0 +1,130 @@
+
+    [
+        {
+            "_id": 0,
+            "title": "Pasta Carbonara",
+            "ingridients": [
+                "olive oil 14g",
+                "pancetta 240g",
+                "eggs 3",
+                "pecorino cheese 250g",
+                "pasta 450g",
+                "salt&pepper few g"
+            ],
+            "steps": [
+                {
+                    "title": "Heat the pasta water",
+                    "body": "Put a large pot of salted water on to boil (1 tablespoon salt for every 2 liters of water.)",
+                    "img": [
+                        ""
+                    ]
+                },
+                {
+                    "title": "Sauté the pancetta or bacon and garlic",
+                    "body": "While the water is coming to a boil, heat the olive oil or butter in a large sauté pan over medium heat. Add the bacon or pancetta and cook slowly until crispy. Add the garlic (if using) and cook another minute, then turn off the heat and put the pancetta and garlic into a large bowl.",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/QuVQafRYaSJu7nC6hm1JMZNHlgY=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spaghetti-Carbonara-METHOD-2-7a170d266a5540b9b1f516a641349642.jpg"
+                    ]
+                },
+                {
+                    "title": "Beat the eggs and half of the cheese",
+                    "body": "In a small bowl, beat the eggs and mix in about half of the cheese.",
+                    "img": [
+                        ""
+                    ]
+                },
+                {
+                    "title": "Cook the pasta",
+                    "body": "Once the water has reached a rolling boil, add the dry pasta, and cook, uncovered, at a rolling boil.",
+                    "img": [
+                        ""
+                    ]
+                },
+                {
+                    "title": "Toss the pasta with pancetta or bacon",
+                    "body": "When the pasta is al dente (still a little firm, not mushy), use tongs to move it to the bowl with the bacon and garlic. Let it be dripping wet. Reserve some of the pasta water. Move the pasta from the pot to the bowl quickly, as you want the pasta to be hot. It's the heat of the pasta that will heat the eggs sufficiently to create a creamy sauce. Toss everything to combine, allowing the pasta to cool just enough so that it doesn't make the eggs curdle when you mix them in. (That's the tricky part.)",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/umuKKg6k6ayuT9F4zwnUDVojqew=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spaghetti-Carbonara-METHOD-3-97c2a2fa004547538f85775533b072a4.jpg"
+                    ]
+                },
+                {
+                    "title": "Add the beaten egg mixture",
+                    "body": "Add the beaten eggs with cheese and toss quickly to combine once more. Add salt to taste. Add some pasta water back to the pasta to keep it from drying out.",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/lbWIUr7l-EnmxInBcf77022i7o8=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spaghetti-Carbonara-METHOD-4-e3304bdfd38941b3937cf11b1307b5ad.jpg"
+                    ]
+                },
+                {
+                    "title": "",
+                    "body": "Serve at once with the rest of the parmesan and freshly ground black pepper. If you want, sprinkle with a little fresh chopped parsley.",
+                    "img": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": 1,
+            "title": "Eggs Benedict",
+            "ingridients": [
+                "8 slices bacon",
+                "4 large eggs",
+                "2 teaspoons white or rice vinegar",
+                "2 English muffins",
+                "Butter",
+                "2 tablespoons chopped parsley, for garnish",
+                "3 large egg yolks",
+                "1 tablespoon lemon juice",
+                "1/2 teaspoon kosher salt",
+                "Dash cayenne or Tabasco sauce"
+            ],
+            "steps": [
+                {
+                    "title": "Cook the bacon",
+                    "body": "Heat a large skillet on medium low heat. Add the strips of bacon or the slices of Canadian bacon. Slowly fry, turning occasionally, until the bacon is browned on both sides, and if using strip bacon, much of the fat is rendered out (about 10 minutes). Use tongs or a fork to remove the bacon from the pan, set on a paper towel to absorb the excess fat. Don't pour the bacon fat left in the pan down the drain! Either sop it up with paper towels when it has cooled a bit, or pour it into a jar to be used later.",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/tEDE8ojAVpnOOl27wIgqzXgVRms=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-1-2244112a706c45bea0194329b23785e8.jpg"
+                    ]
+                },
+                {
+                    "title": "Bring the poaching water to a simmer",
+                    "body": "While the bacon is cooking, bring a large saucepan two-thirds-filled with water to a boil, then add the vinegar. Bring the water to a boil again, then lower the heat to a bare simmer.",
+                    "img": [
+                        ""
+                    ]
+                },
+                {
+                    "title": "Make the Hollandaise sauce",
+                    "body": "To make blender Hollandaise, gently melt 10 tablespoons unsalted butter. Put 3 egg yolks, a tablespoon of lemon juice, 1/2 teaspoon salt in a blender. Blend on medium to medium high speed for 30 full seconds (count or time it), until eggs lighten in color. Turn the blender down to lowest setting, slowly dribble in the hot melted butter, while continuing to blend. Taste for salt and acidity and add more salt or lemon juice to taste. Transfer it to a container you can use for pouring and set it on a warm—but not hot—place on or near the stovetop.",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/E2C29tjqD6ogdymZQVkYzJSUb8I=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-2-013959f2bd0e4981aff62f764029be73.jpg",
+                        "https://www.simplyrecipes.com/thmb/ZBslS7an3SB8vS_As-OlpQYiS7c=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-3-85d698830a37416c89a8a85230986042.jpg",
+                        "https://www.simplyrecipes.com/thmb/SG_-W9AkETHqbDucdBRoQZ3ChIM=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-4-cf2a508420fb4abbac5c24f597e6aefd.jpg"
+                    ]
+                },
+                {
+                    "title": "Poach the eggs",
+                    "body": "Essentially, working one egg at a time you crack an egg into a small bowl and slip it into the barely simmering water. Once it begins to solidify, you can slip in another egg, until you have all four cooking. Turn off the heat, cover the pan, and let sit for 4 minutes. (Remember which egg went in first, you'll want to take it out first.) When it comes time to remove the eggs, gently lift out with a slotted spoon. Note that the timing is a little variable on the eggs, depending on the size of your pan, how much water, how many eggs, and how runny you like them. You might have to experiment a little with your set-up to figure out what you need to do to get the eggs exactly the way you like them.",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/PHMGUD5lRsklmsDQaWPUTnkAhnQ=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-5-6d9ffef464da4338841b2fb40c39c5fa.jpg",
+                        "https://www.simplyrecipes.com/thmb/6LL8zV0SjnxgnbGXhZ8rZ0B0iIA=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-6-60ff9a0ad0db46b7b6285b7ca4fcd37d.jpg"
+                    ]
+                },
+                {
+                    "title": "Toast the English muffins",
+                    "body": "As soon as all the eggs are in the poaching water, begin toasting your English muffins. If you can't get all the muffins toasted by the time the eggs are ready, gently remove the eggs from the poaching water and set in a bowl.",
+                    "img": [
+                        ""
+                    ]
+                },
+                {
+                    "title": "Assemble the eggs Benedict",
+                    "body": "To assemble, butter one side of an English muffin. Top with 2 slices of bacon or 1 slice of Canadian bacon. You can trim the bacon to fit the muffin if you'd like. Put a poached egg on top of the bacon, then pour some Hollandaise over. Sprinkle some parsley over it all and serve at once.",
+                    "img": [
+                        "https://www.simplyrecipes.com/thmb/JH0jVNPfRjIT4M51W8fNPQBNW0s=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-7-808a7aa10af841d78a032e00569acf0a.jpg",
+                        "https://www.simplyrecipes.com/thmb/IBGXmGfdecAgBk1uRLTAW67PmXY=/580x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Eggs-Benedict-METHOD-8-97fa6e81a983417e9c754ca0c2e9cc38.jpg"
+                    ]
+                }
+            ]
+        }
+    ]

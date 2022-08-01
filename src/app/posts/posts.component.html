@@ -1,0 +1,7 @@
+<div class="container">
+    <h4 *ngFor="let post of PostsData"><a [routerLink]="['/posts', post._id]">{{post.title}}</a></h4>
+
+</div>
+
+
+<!-- <app-post *ngFor="let post of PostsData" [post]="post"></app-post> -->
