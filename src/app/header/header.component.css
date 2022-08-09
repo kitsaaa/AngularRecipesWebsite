@@ -20,7 +20,8 @@
 
 .links p:hover, .search i:hover {
     color: var(--blue-main);
-    border-bottom: 1px solid var(--blue-main);
+    /* border-bottom: 1px solid var(--blue-main); */
+    text-decoration: underline;
     transition: 0.5s;
 }
 
