@@ -1,6 +1,13 @@
 .container {
-    margin: 5px;
     font-size: 10px;
+    background-color: #d4dee3;
+    color: var(--dark-main);
+    height: 100%;
+    position: relative;
+    width: 100%;
+   display: flex;
+   justify-content: center;
+    /* top: -13.5px; */
 }
 
 
@@ -8,7 +15,7 @@
 img {
     width: 300px;
     height: 200px;
-    border: 1px solid black;
+    border: 1px solid var(--dark-main);
 }
 
 .image {
@@ -18,3 +25,20 @@ img {
     left: -10px;
     padding: 2px;
 }
+
+.data {
+    margin-top: 0;
+}
+.dataContainer {
+    padding-left: 5px;
+    width: 60%;
+    background-color: var(--blue-secondary);
+}
+
+.imgContainer {
+    width: 95%;
+    display: flex;
+    justify-content: center;
+}
+
+/*  */

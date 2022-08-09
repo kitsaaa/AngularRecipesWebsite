@@ -1,6 +1,9 @@
 <div class="container">
-    <div>
-        <h1><u>{{post.title}}</u></h1>
+    <div class="dataContainer">
+        <h1 class="data">{{post.title}}</h1>
+        <div class="imgContainer">
+            <img src={{post.preview}} alt="preview">
+        </div>
         <ul *ngFor="let ingridient of post.ingridients">
             <li>{{ingridient}}</li>
         </ul>

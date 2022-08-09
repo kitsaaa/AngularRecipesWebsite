@@ -3,3 +3,12 @@ body {
     margin: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+:root {
+    --blue-main: #b8d4e2;
+    --blue-secondary: #e8eef2;
+    --cream-main: #D7CEB2;
+    --cream-secondary: #A59E8C;
+    --cream-dark: #66635B;
+    --dark-main: rgb(31, 31, 31);
+  }

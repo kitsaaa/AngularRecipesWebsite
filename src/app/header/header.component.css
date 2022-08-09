@@ -1,7 +1,7 @@
 .container {
     width: 100%;
-    height: 1.25em;
-    background-color: rgb(38, 38, 38);
+    height: 20px;
+    background-color: var(--dark-main);
     display: flex;
     justify-content: flex-end;
     font-size: 10px;
@@ -9,16 +9,40 @@
 
 .links {
     width: 30%;
-    height: 1.25em;
-    background-color: rgb(106, 77, 50);
+    height: 2em;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    color: black;
+    color: white;
+    font-size: 9px;
 }
 
-.links p:hover {
-    color: white;
+.links p:hover, .search i:hover {
+    color: var(--blue-main);
+    border-bottom: 1px solid var(--blue-main);
     transition: 0.5s;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    margin-right: 5px;
+    color: white;
+}
+.search input[type=text] {
+    border: 0;
+    border-bottom: 0.5px solid white;
+    height: 8px;
+    width: 120px;
+    background-color: var(--dark-main);
+    font-size: 8px;
+}
+
+.search input[type=text]:focus {
+    outline: none;
+    border-bottom: 0.5px solid var(--blue-main);
+    color: var(--blue-secondary);
 }
